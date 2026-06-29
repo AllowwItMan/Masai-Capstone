@@ -85,9 +85,9 @@ GROQ_API_KEY=your_groq_api_key_here
 
 uvicorn backend.main:app --reload
 
-The Backend runs at : " http://127.0.0.1:8000 "
+The Backend runs at : " http://127.0.0.1:8001 "
 
-API Docs : " http://127.0.0.1:8000/docs "
+API Docs : " http://127.0.0.1:8001/docs "
 
 ### 5. Start frontend
 
